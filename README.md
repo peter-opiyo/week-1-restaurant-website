@@ -20,24 +20,16 @@ A responsive multi-page restaurant website for Savanna Grill, a fictional Kenyan
 
 ## Live URL
 
-Add your GitHub Pages link here after deployment.
-
 ## Screenshots
 
-Add your screenshots here after testing:
+### Desktop View
 
-```md
-![Desktop Screenshot](screenshots/desktop.png)
-![Tablet Screenshot](screenshots/tablet.png)
-![Mobile Screenshot](screenshots/mobile.png)
-```
+![Savanna Grill Desktop Screenshot](screenshots/restaurant-desktop.png)
 
-## How to Run Locally
+### Tablet View
 
-1. Open the project folder in VS Code.
-2. Open `index.html`.
-3. Right-click and select **Open with Live Server**.
+![Savanna Grill Tablet Screenshot](screenshots/restaurant-tablet.png)
 
-## Project Status
+### Mobile View
 
-Completed core requirements and stretch goals including gallery, special offer banner, hover effects, and hero animation.
+![Savanna Grill Mobile Screenshot](screenshots/restaurant-mobile.png)
